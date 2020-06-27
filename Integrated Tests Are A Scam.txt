@@ -9,6 +9,8 @@ Talk: https://vimeo.com/80533536
 - isolated tests put tremendous pressure on our design
 - if code design has problems, tests will be hard to write
   - 23 lines of test code to check one thing
+- more integrated tests, design more sloppily, more bugs == crazy cycle
 -
+
 
 
