@@ -6,6 +6,9 @@ Talk: https://vimeo.com/80533536
   - when it fails, I can't point right to the issue that caused it
 - not unit tests, isolated tests
 - checking vs testing
+- isolated tests put tremendous pressure on our design
+- if code design has problems, tests will be hard to write
+  - 23 lines of test code to check one thing
 -
 
 
