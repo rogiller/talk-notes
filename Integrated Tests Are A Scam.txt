@@ -3,7 +3,9 @@ Integrated Tests Are A Scam
 Talk: https://vimeo.com/80533536
 
 - an integrated test is any test is where the success or failure depends on many different bits of interesting behavior at once
-  - when it fails, I can't point right to the issue
-
+  - when it fails, I can't point right to the issue that caused it
+- not unit tests, isolated tests
+- checking vs testing
+-
 
 
